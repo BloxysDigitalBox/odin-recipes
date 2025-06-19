@@ -8,5 +8,6 @@ Here are some skills that I'll demonstrate in this project:
 - Some basics of writing a website.
 - Customizing text via HTTP scripting.
 - Hopefully embedding some images of some tasty food!
+    - And now some shmancy stuff with CSS!
 
 Aand... That's all! I think!!!
