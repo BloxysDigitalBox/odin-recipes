@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(255, 216, 168);
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    width: 300px;
+    height: 40px;
+    background-color: rgb(255, 216, 168);
+    margin: auto;
+    padding: 10px;
+    border: 6px rgb(156, 117, 70);
+    border-style: groove;
+}
+
+.content-container {
+    width: 800px;
+    height: auto;
+    background-color: rgb(206, 171, 129);
+    margin: auto;
+    padding: 10px;
+    border: 10px rgb(156, 117, 70);
+    border-style: groove;
+}
+
+.link-list {
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 216, 168);
+    margin: 20px auto;
+    padding: 10px;
+    border: 6px rgb(156, 117, 70);
+    border-style: groove;
+}
+
+li {
+    font-size: 20px;
+    width: 200px;
+    height: auto;
+    background-color: rgb(255, 216, 168);
+    margin: 20px auto;
+    padding: 10px;
+    border: 6px rgb(156, 117, 70);
+    border-style: groove;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    margin: auto;
+    border: 6px rgb(156, 117, 70);
+    border-style: groove;
+}
